@@ -91,7 +91,7 @@ Previous years:
 
 [Tom White](https://twitter.com/dribnet), Victoria University of Wellington
 
-[Holly Grim](https://twitter.com/hollygrimm), Artist and freelance creative technologist
+[Holly Grimm](https://twitter.com/hollygrimm), Artist and freelance creative technologist
 
 [Mattie Tesfaldet](https://twitter.com/mtesfald), McGill University / MILA
 
