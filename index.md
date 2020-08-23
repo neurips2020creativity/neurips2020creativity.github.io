@@ -74,6 +74,13 @@ If you have any questions, please contact us at `neurips2020creativity@gmail.com
 
 Workshop website: [https://neurips2020creativity.github.io](https://neurips2020creativity.github.io)
 
+Previous years:
+
+* [2019 workshop](http://neurips2019creativity.github.io/) (Vancouver, Canada)
+* [2018 workshop](https://nips2018creativity.github.io/) (Montreal, Canada)
+* [2017 workshop](https://nips2017creativity.github.io/) (Long Beach, CA, USA)
+
+
 ## Organisers
 
 [Luba Elliott](https://twitter.com/elluba), AI Curator
