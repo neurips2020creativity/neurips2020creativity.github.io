@@ -48,7 +48,7 @@ We welcome submission of artwork that has been created using machine learning (a
 
 We can accommodate work submitted in one of the following formats: video, audio (maximum 2 channel), still image or website. Other types of submissions (e.g., physical artefacts, performances, text, …) should be documented using one or more of the above formats. For instance, you might submit a video of a machine-learning-generated dance piece or a website documenting a text generation piece.
 
-We will display the accepted art submissions on the workshop gallery and will do our best to show a number of art pieces at the online workshop itself. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
+We will display the accepted art submissions on the [workshop gallery](http://www.aiartonline.com/) and will do our best to show a number of art pieces at the online workshop itself. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
 
 On this submission [page](https://docs.google.com/forms/d/e/1FAIpQLSd2SZvAtujcnOLmFvYQUN0qo5plCFi9dblwMabWc0_WibijEQ/viewform), you will also be asked for a short text description of your work and a description of how machine learning was used in its creation. 
 
@@ -80,6 +80,7 @@ Previous years:
 * [2018 workshop](https://nips2018creativity.github.io/) (Montreal, Canada)
 * [2017 workshop](https://nips2017creativity.github.io/) (Long Beach, CA, USA)
 
+The art submissions from previous years can be viewed [here](http://www.aiartonline.com/)
 
 ## Organisers
 
