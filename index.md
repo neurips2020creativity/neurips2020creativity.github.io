@@ -50,7 +50,7 @@ We can accommodate work submitted in one of the following formats: video, audio 
 
 We will display the accepted art submissions on the workshop gallery and will do our best to show a number of art pieces at the online workshop itself. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
 
-On this submission [page](https://docs.google.com/forms/d/e/1FAIpQLSeABURznRXoUwp48OAKGcmDa0jqp1cbVposxH5dR68D-C8IVg/viewform), you will also be asked for a short text description of your work and a description of how machine learning was used in its creation. <!-- TODO: UPDATE LINK!!! -->
+On this submission [page](https://docs.google.com/forms/d/e/1FAIpQLSd2SZvAtujcnOLmFvYQUN0qo5plCFi9dblwMabWc0_WibijEQ/viewform), you will also be asked for a short text description of your work and a description of how machine learning was used in its creation. 
 
 ## Invited Speakers
 
