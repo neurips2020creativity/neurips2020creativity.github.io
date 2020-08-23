@@ -31,7 +31,7 @@ We encourage all authors to consider the ethical implications of their work. Thi
 
 In your submission, you may also indicate whether you would like to present a demo of your work during the workshop (if applicable).
 
-Papers will be reviewed by committee members, and accepted authors will present at the workshop in the form of a short talk, panel, and/or demo. At least one author of each accepted paper must register for and attend the workshop. Accepted papers will appear on the workshop website.
+Papers will be reviewed by committee members, and accepted authors will present at the workshop in the form of a short talk, panel, and/or demo. At least one author of each accepted paper must register for and attend the workshop. Accepted papers will appear on the workshop website. Please note that we do not adhere to a formal peer review process and are normally unable to provide detailed feedback on individual submissions. 
 
 References and any supplementary materials provided do not count as part of the 2-page limit. However, it will be the reviewers’ discretion to read the supplementary materials.
 
