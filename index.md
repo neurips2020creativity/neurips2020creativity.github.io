@@ -54,9 +54,13 @@ On this submission [page](https://docs.google.com/forms/d/e/1FAIpQLSd2SZvAtujcnO
 
 ## Invited Speakers
 
-Coming soon!
-
-<!-- TODO: add links to personal pages -->
+[Sofia Crespo](https://sofiacrespo.com/), Artist
+[Stephanie Dinkins](https://www.stephaniedinkins.com), Artist and Professor at Stony Brook University
+[Scott Eaton](http://www.scott-eaton.com), Artist
+[Jesse Engel](https://research.google/people/JesseEngel), Magenta, Google Brain
+[Angela Fan](https://ai.facebook.com/people/angela-fan/), Facebook
+[Aaron Hertzmann](http://www.dgp.toronto.edu/~hertzman/), Adobe Research
+[Janelle Shane](https://aiweirdness.com/aboutme), AI Weirdness
 
 ## Important Dates
 
