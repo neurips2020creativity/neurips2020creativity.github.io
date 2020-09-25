@@ -4,6 +4,23 @@ Generative machine learning and machine creativity have continued to grow and at
 
 The goal of this workshop is to bring together researchers interested in advancing art and music generation to present new work, foster collaborations and build networks with the aim of solving the most pressing problems in the field.
 
+## Invited Speakers
+
+[Sofia Crespo](https://sofiacrespo.com/), Artist
+
+[Stephanie Dinkins](https://www.stephaniedinkins.com), Artist and Professor at Stony Brook University
+
+[Scott Eaton](http://www.scott-eaton.com), Artist
+
+[Jesse Engel](https://research.google/people/JesseEngel), Magenta, Google Brain
+
+[Angela Fan](https://ai.facebook.com/people/angela-fan/), Facebook
+
+[Aaron Hertzmann](http://www.dgp.toronto.edu/~hertzman/), Adobe Research
+
+[Janelle Shane](https://aiweirdness.com/aboutme), AI Weirdness
+
+
 ## How To Participate
 
 We invite participation in the form of papers and/or artwork.
@@ -51,16 +68,6 @@ We can accommodate work submitted in one of the following formats: video, audio 
 We will display the accepted art submissions on the [workshop gallery](http://www.aiartonline.com/) and will do our best to show a number of art pieces at the online workshop itself. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
 
 On this submission [page](https://docs.google.com/forms/d/e/1FAIpQLSd2SZvAtujcnOLmFvYQUN0qo5plCFi9dblwMabWc0_WibijEQ/viewform), you will also be asked for a short text description of your work and a description of how machine learning was used in its creation. 
-
-## Invited Speakers
-
-[Sofia Crespo](https://sofiacrespo.com/), Artist
-[Stephanie Dinkins](https://www.stephaniedinkins.com), Artist and Professor at Stony Brook University
-[Scott Eaton](http://www.scott-eaton.com), Artist
-[Jesse Engel](https://research.google/people/JesseEngel), Magenta, Google Brain
-[Angela Fan](https://ai.facebook.com/people/angela-fan/), Facebook
-[Aaron Hertzmann](http://www.dgp.toronto.edu/~hertzman/), Adobe Research
-[Janelle Shane](https://aiweirdness.com/aboutme), AI Weirdness
 
 ## Important Dates
 
