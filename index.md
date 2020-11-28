@@ -46,7 +46,7 @@ All times are EST (UTC -5).
 | 9:55 AM | Invited Talk<br/>*Scott Eaton* |
 | 10:20 AM | Invited Talk<br/>*Sofia Crespo* |
 | 10:40 AM | Art Show |
-| 11:00 AM | Panel Discussion 1<br/>Luba Elliott, Janelle Shane, Sofia Crespo, Scott Eaton, Adam Roberts |
+| 11:00 AM | Panel Discussion 1<br/>*Luba Elliott, Janelle Shane, Sofia Crespo, Scott Eaton, Adam Roberts* |
 | 11:30 AM | Social 1 |
 | 12:15 PM | Invited Talk<br/>*Jesse Engel* |
 | 12:45 PM | Art Show |
@@ -60,7 +60,7 @@ All times are EST (UTC -5).
 | 3:20 PM | Agence: an interactive film exploring multi-agent systems and human agency<br/>*Dante Camarena* |
 | 3:30 PM | Art Show |
 | 3:45 PM | Poster Session 2 |
-| 4:45 PM | Panel Discussion 1<br/>Tom White, Jesse Engel, Angela Fan, Aaron Hertzmann, Stephanie Dinkins, Holly Grimm |
+| 4:45 PM | Panel Discussion 1<br/>*Tom White, Jesse Engel, Angela Fan, Aaron Hertzmann, Stephanie Dinkins, Holly Grimm* |
 | 5:15 PM | Social 2 |
 | 6:00 PM | End |
 
