@@ -116,20 +116,20 @@ All times are EST (UTC -5).
     * *David Bau, Steven Liu, Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba*
 24. [Spatial Assembly:Generative Architecture With Reinforcement Learning, Self Play and Tree Search](https://drive.google.com/file/d/1AKyw-B8FbnD0EXAcHXQRmutmrhaCv4Mp/view?usp=sharing)
     * *Panagiotis Tigas, Tyson Hosmer*
-25. [Weird AI Yankovic: Generating Parody Lyrics](https://drive.google.com/file/d/1ZCgjO2kV3j_XCheQ0FIVnajFvCgSwwWI/view?usp=sharing)
-    * *Mark O. Riedl*
+25. [Text to Dialog: Using Semantic Similarity to Extend Narrative Immersion in Virtual Worlds](https://drive.google.com/file/d/1nNM3WE3qGRW7MMmaJJxMVUkt70SIEsat/view?usp=sharing)
+    * *Sherol Chen, Ben Pietrzak, Kory W. Matthewson, Dan Cary, Anna Kipnis, Erin Hoffman-John*
 26. [Towards realistic MIDI instrument synthesizers](https://drive.google.com/file/d/1NOhO_f0AWXJsOuhGffcNk1R1LJam9zE1/view?usp=sharing)
     * *Rodrigo Castellon, Chris Donahue, Percy Liang*
 27. [Copyspace: Where to Write on Images](https://drive.google.com/file/d/1Fs8RhQHuwx1esPEsmT_MFzCCTLQRJjBC/view?usp=sharing)
     * *Jessica M. Lundin, Michael Sollami, Brian Lonsdorf, Alan Ross, Owen Schoppe, David Woodward, Sönke Rohde*
-28. [Text to Dialog: Using Semantic Similarity to Extend Narrative Immersion in Virtual Worlds](https://drive.google.com/file/d/1nNM3WE3qGRW7MMmaJJxMVUkt70SIEsat/view?usp=sharing)
-    * *Sherol Chen, Ben Pietrzak, Kory W. Matthewson, Dan Cary, Anna Kipnis, Erin Hoffman-John*
+28. [Diptychs of human and machine perceptions](https://drive.google.com/file/d/1E2Y1XvWwE48yhypF_A9pk4ZgQNwIosDS/view?usp=sharing)
+    * *Vivien Cabannes, Thomas Kerdreux, Louis Thiry*
 29. [A Framework and Dataset for Abstract Art Generation via CalligraphyGAN](https://drive.google.com/file/d/11JlCMP88toHKGR4QwD8pU3lFO5-Fufki/view?usp=sharing)
     * *Jinggang Zhuo, Ling Fan, Harry Jiannan Wang*
 30. [Generating Novel Glyph without Human Data by Learning to Communicate](https://drive.google.com/file/d/1xGJl71s4CQ0rFaWMaqS-IpuMbbmoWoLr/view?usp=sharing)
     * *Seung-won Park*
-31. [Diptychs of human and machine perceptions](https://drive.google.com/file/d/1E2Y1XvWwE48yhypF_A9pk4ZgQNwIosDS/view?usp=sharing)
-    * *Vivien Cabannes, Thomas Kerdreux, Louis Thiry*
+31. [Weird AI Yankovic: Generating Parody Lyrics](https://drive.google.com/file/d/1ZCgjO2kV3j_XCheQ0FIVnajFvCgSwwWI/view?usp=sharing)
+    * *Mark O. Riedl*
 32. [Musical Diary - AI Application for Music Making and Journaling](https://drive.google.com/file/d/14Uf4ktjN7zm1Y6ZC2Sxiw2fEsZy7vUqw/view?usp=sharing)
     * *Suyash Joshi, Devin Lane, Stephen Haney*
 
