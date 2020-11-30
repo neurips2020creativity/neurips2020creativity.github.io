@@ -40,7 +40,7 @@ All times are EST (UTC -5).
 
 | Time    | Event  |
 |---------|--------|
-| 8:15 AM | Welcome and Introduction |
+| 8:15 AM | Introduction and Art Gallery Overiew |
 | 8:30 AM | Poster Session 1 <br/> *Posters 1-27 and 30-32* |
 | 9:30 AM | Invited Talk<br/>*Janelle Shane* (AI Weirdness) |
 | 9:55 AM | Invited Talk<br/>*Scott Eaton* |
