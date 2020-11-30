@@ -120,8 +120,8 @@ All times are EST (UTC -5).
     * *Sherol Chen, Ben Pietrzak, Kory W. Matthewson, Dan Cary, Anna Kipnis, Erin Hoffman-John*
 26. [Towards realistic MIDI instrument synthesizers](https://drive.google.com/file/d/1NOhO_f0AWXJsOuhGffcNk1R1LJam9zE1/view?usp=sharing)
     * *Rodrigo Castellon, Chris Donahue, Percy Liang*
-27. [Copyspace: Where to Write on Images](https://drive.google.com/file/d/1Fs8RhQHuwx1esPEsmT_MFzCCTLQRJjBC/view?usp=sharing)
-    * *Jessica M. Lundin, Michael Sollami, Brian Lonsdorf, Alan Ross, Owen Schoppe, David Woodward, Sönke Rohde*
+27. [Musical Diary - AI Application for Music Making and Journaling](https://drive.google.com/file/d/14Uf4ktjN7zm1Y6ZC2Sxiw2fEsZy7vUqw/view?usp=sharing)
+    * *Suyash Joshi, Devin Lane, Stephen Haney*    
 28. [Diptychs of human and machine perceptions](https://drive.google.com/file/d/1E2Y1XvWwE48yhypF_A9pk4ZgQNwIosDS/view?usp=sharing)
     * *Vivien Cabannes, Thomas Kerdreux, Louis Thiry*
 29. [A Framework and Dataset for Abstract Art Generation via CalligraphyGAN](https://drive.google.com/file/d/11JlCMP88toHKGR4QwD8pU3lFO5-Fufki/view?usp=sharing)
@@ -130,8 +130,8 @@ All times are EST (UTC -5).
     * *Seung-won Park*
 31. [Weird AI Yankovic: Generating Parody Lyrics](https://drive.google.com/file/d/1ZCgjO2kV3j_XCheQ0FIVnajFvCgSwwWI/view?usp=sharing)
     * *Mark O. Riedl*
-32. [Musical Diary - AI Application for Music Making and Journaling](https://drive.google.com/file/d/14Uf4ktjN7zm1Y6ZC2Sxiw2fEsZy7vUqw/view?usp=sharing)
-    * *Suyash Joshi, Devin Lane, Stephen Haney*
+32. [Copyspace: Where to Write on Images](https://drive.google.com/file/d/1Fs8RhQHuwx1esPEsmT_MFzCCTLQRJjBC/view?usp=sharing)
+    * *Jessica M. Lundin, Michael Sollami, Brian Lonsdorf, Alan Ross, Owen Schoppe, David Woodward, Sönke Rohde*
 
 
 
