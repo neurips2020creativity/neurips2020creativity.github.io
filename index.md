@@ -41,12 +41,12 @@ All times are EST (UTC -5).
 | Time    | Event  |
 |---------|--------|
 | 8:15 AM | Welcome and Introduction |
-| 8:30 AM | Poster Session 1 |
+| 8:30 AM | Poster Session 1 <br/> *Posters 1-27 and 30-32* |
 | 9:30 AM | Invited Talk<br/>*Janelle Shane* (AI Weirdness) |
 | 9:55 AM | Invited Talk<br/>*Scott Eaton* |
 | 10:20 AM | Invited Talk<br/>*Sofia Crespo* |
 | 10:40 AM | Art Show |
-| 11:00 AM | Panel Discussion 1<br/>*Luba Elliott, Janelle Shane, Sofia Crespo, Scott Eaton, Adam Roberts* |
+| 11:00 AM | Panel Discussion 1<br/>*Janelle Shane, Sofia Crespo, Scott Eaton, Adam Roberts, Luba Elliott * |
 | 11:30 AM | Social 1 |
 | 12:15 PM | Invited Talk<br/>*Jesse Engel* |
 | 12:45 PM | Art Show |
@@ -59,8 +59,8 @@ All times are EST (UTC -5).
 | 3:10 PM | Creative Sketch Generation<br/>*Songwei Ge* |
 | 3:20 PM | Agence: an interactive film exploring multi-agent systems and human agency<br/>*Dante Camarena* |
 | 3:30 PM | Art Show |
-| 3:45 PM | Poster Session 2 |
-| 4:45 PM | Panel Discussion 1<br/>*Tom White, Jesse Engel, Angela Fan, Aaron Hertzmann, Stephanie Dinkins, Holly Grimm* |
+| 3:45 PM | Poster Session 2 <br/> *Posters 1-29*|
+| 4:45 PM | Panel Discussion 2<br/>*Jesse Engel, Angela Fan, Aaron Hertzmann, Stephanie Dinkins, Holly Grimm, Tom White* |
 | 5:15 PM | Social 2 |
 | 6:00 PM | End |
 
@@ -121,17 +121,20 @@ All times are EST (UTC -5).
 26. [Towards realistic MIDI instrument synthesizers](https://drive.google.com/file/d/18bO7OrvpZlS4Pe9obuJSzr5YRVBdeDri/view?usp=sharing)
     * *Rodrigo Castellon, Chris Donahue, Percy Liang*
 27. [Musical Diary - AI Application for Music Making and Journaling](https://drive.google.com/file/d/1SwT2R9u5BuDUproqmzy5lV_KFOsJ_QsU/view?usp=sharing)
-    * *Suyash Joshi, Devin Lane, Stephen Haney*    
-28. [Diptychs of human and machine perceptions](https://drive.google.com/file/d/1zi6vByMTlIynBUJhlR5BHA5cPRw-Dglg/view?usp=sharing)
-    * *Vivien Cabannes, Thomas Kerdreux, Louis Thiry*
-29. [A Framework and Dataset for Abstract Art Generation via CalligraphyGAN](https://drive.google.com/file/d/1tsfHvHTSYJkeGyEjIll3_ABY2SXaU3EV/view?usp=sharing)
-    * *Jinggang Zhuo, Ling Fan, Harry Jiannan Wang*
+    * *Suyash Joshi, Devin Lane, Stephen Haney*
+28. [Weird AI Yankovic: Generating Parody Lyrics](https://drive.google.com/file/d/1cujlWzqbZlSOAjvD0YKJqftqgMHyC43O/view?usp=sharing)
+    * *Mark O. Riedl*
+29. [Copyspace: Where to Write on Images](https://drive.google.com/file/d/1UeUiFFYJjNnSZuSnThs6Btgv8vri1I7C/view?usp=sharing)
+    * *Jessica M. Lundin, Michael Sollami, Brian Lonsdorf, Alan Ross, Owen Schoppe, David Woodward, Sönke Rohde*
 30. [Generating Novel Glyph without Human Data by Learning to Communicate](https://drive.google.com/file/d/1Ixo8xYWDyV4aW7vTAgi-UgxW1spsrrcH/view?usp=sharing)
     * *Seung-won Park*
-31. [Weird AI Yankovic: Generating Parody Lyrics](https://drive.google.com/file/d/1cujlWzqbZlSOAjvD0YKJqftqgMHyC43O/view?usp=sharing)
-    * *Mark O. Riedl*
-32. [Copyspace: Where to Write on Images](https://drive.google.com/file/d/1UeUiFFYJjNnSZuSnThs6Btgv8vri1I7C/view?usp=sharing)
-    * *Jessica M. Lundin, Michael Sollami, Brian Lonsdorf, Alan Ross, Owen Schoppe, David Woodward, Sönke Rohde*
+31. [Diptychs of human and machine perceptions](https://drive.google.com/file/d/1zi6vByMTlIynBUJhlR5BHA5cPRw-Dglg/view?usp=sharing)
+    * *Vivien Cabannes, Thomas Kerdreux, Louis Thiry*
+32. [A Framework and Dataset for Abstract Art Generation via CalligraphyGAN](https://drive.google.com/file/d/1tsfHvHTSYJkeGyEjIll3_ABY2SXaU3EV/view?usp=sharing)
+    * *Jinggang Zhuo, Ling Fan, Harry Jiannan Wang*
+
+
+
 
 
 
