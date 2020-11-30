@@ -68,69 +68,69 @@ All times are EST (UTC -5).
 
 ## Accepted papers
 
-1. [Audio-reactive Latent Interpolations with StyleGAN](https://drive.google.com/file/d/1SBh19cF50Mtw7tbs2UhlJahDVTgYulRN/view?usp=sharing)
+1. [Audio-reactive Latent Interpolations with StyleGAN](https://drive.google.com/file/d/1ArLcVR43q7fCmMcslBlBlVhMMe2r_mP-/view?usp=sharing)
     * *Hans Brouwer*
-2. [Creative Sketch Generation](https://drive.google.com/file/d/1WI_Dtas1jn2V_LH5ZCPmdDYUHgrObpi7/view?usp=sharing)
+2. [Creative Sketch Generation](https://drive.google.com/file/d/1sV2s0F1AN-PNKDnTv1EbGZFM_QbIOVih/view?usp=sharing)
     * *Songwei Ge, Vedanuj Goswami, C. Lawrence Zitnick, Devi Parikh*
-3. [Agence: an interactive film exploring multi-agent systems and human agency](https://drive.google.com/file/d/1Yg9VHYwPDfSFE8iV2wj3XBUnwCRHr9bw/view?usp=sharing)
+3. [Agence: an interactive film exploring multi-agent systems and human agency](https://drive.google.com/file/d/1Qekak-vOw6Ful3t18XhNsoiSVv9gQkOE/view?usp=sharing)
     * *Dante Camarena, Pietro Gagliano, Alexander Bakogeorge, Nicholas Counter, Anuj Patel, Casey Ryan Blustein, Erin Ray, David Oppenheim, Laura Mingail, Kory W. Matthewson, Pablo S. Castro*
-4. [GANterpretations](https://drive.google.com/file/d/1ORiUbw3fg2b-pxpFifo9bQugRvvsFS6e/view?usp=sharing)
+4. [GANterpretations](https://drive.google.com/file/d/1Hsjc2tY9nMutiAkZjiPMJhbP8AzgLFqg/view?usp=sharing)
     * *Pablo Samuel Castro*
-5. [Neural Style Transfer for Casual Creation](https://drive.google.com/file/d/1NyV_MSz3QjI36uRnIQ2Ji2rIa-VKzCck/view?usp=sharing)
+5. [Neural Style Transfer for Casual Creation](https://drive.google.com/file/d/1JINV_lEYzvUHzU83-K29slUI7-o1DAFH/view?usp=sharing)
     * *Simon Colton*
-6. [Network Bending Neural Vocoders](https://drive.google.com/file/d/1N58ims107dW0j_W4Yu-0qKuapA9QRoda/view?usp=sharing)
+6. [Network Bending Neural Vocoders](https://drive.google.com/file/d/18FZXxBMBES5BYtqqm6OZKoGXXtPS98Gc/view?usp=sharing)
     * *Louis McCallum, Matthew Yee-King*
-7. [Colorization Transformer](https://drive.google.com/file/d/1QQDZAli7JFq4EU_y02lmgO8KJN-kE9Gg/view?usp=sharing)
+7. [Colorization Transformer](https://drive.google.com/file/d/1wtrvSFIWIVV0QZMmASPTvDVb7YDijpW6/view?usp=sharing)
     * *Manoj Kumar, Dirk Weissenborn, Nal Kalchbrenner*
-8. [White-box Audio VST Effect Programming](https://drive.google.com/file/d/18Ee3cvqdRBQ_-5GqLTSHt3IqIb4HekWX/view?usp=sharing)
+8. [White-box Audio VST Effect Programming](https://drive.google.com/file/d/1YucbION3g0CPcfPW1-EfavPE5oQzsUSm/view?usp=sharing)
     * *Christopher Mitcheltree, Hideki Koike*
-9. [TräumerAI: Dreaming Music with StyleGAN](https://drive.google.com/file/d/1mvjkc8gLMaBfclyzWAzAR2mefW3hllyf/view?usp=sharing)
+9. [TräumerAI: Dreaming Music with StyleGAN](https://drive.google.com/file/d/1PNMFaglPl36PDCHNX_RPu8XABw1vL0iu/view?usp=sharing)
     * *Dasaem Jeong, Seungheon Doh, Taegyun Kwon*
-10. [A Note on Data Biases in Generative Models](https://drive.google.com/file/d/15vliUaH_FEOMykoSBSyCNlMVGKSVZTa6/view?usp=sharing)
+10. [A Note on Data Biases in Generative Models](https://drive.google.com/file/d/1PGhBTEAgj2A_FnYMk_1VU-uOxcWY076B/view?usp=sharing)
     * *Patrick Esser, Robin Rombach, Björn Ommer*
-11. [Randomized Overdrive Neural Networks](https://drive.google.com/file/d/1AdyUysL7qNKVIKaLtFaVGqp0nkGsPzRx/view?usp=sharing)
+11. [Randomized Overdrive Neural Networks](https://drive.google.com/file/d/1rRD0YcLfZViz17e0GeEc4UioeTW8Ffd3/view?usp=sharing)
     * *Christian J. Steinmetz, Joshua D. Reiss*
-12. [Latent Space Oddity: Exploring Latent Spaces to Design Guitar Timbres](https://drive.google.com/file/d/1b8OmTHRUe_rHtwLHCtsE1Yp1lL9CaUpR/view?usp=sharing)
+12. [Latent Space Oddity: Exploring Latent Spaces to Design Guitar Timbres](https://drive.google.com/file/d/1s9ExW_4qGbofzoJmmTKsKlB_YO9YhG_5/view?usp=sharing)
     * *Jason Taylor*
-13. [Resolution Dependant GAN Interpolation for Controllable Image Synthesis Between Domains](https://drive.google.com/file/d/13vygeLk-REJvB0n4_lkse36_-GAzDK98/view?usp=sharing)
+13. [Resolution Dependant GAN Interpolation for Controllable Image Synthesis Between Domains](https://drive.google.com/file/d/1448oqzJoy6WaxocDW9CrmUkYdZcDSLUl/view?usp=sharing)
     * *Justin N. M. Pinkney, Doron Adler*
-14. [Image Generation With Neural Cellular Automatas](https://drive.google.com/file/d/1O_JckcjnP0211eEjh6twvl8ma365WSdK/view?usp=sharing)
+14. [Image Generation With Neural Cellular Automatas](https://drive.google.com/file/d/13M75vuiLSVxnClYNWLeKNN9Ksv2P7R_7/view?usp=sharing)
     * *Mingxiang Chen, Zhecheng Wang*
-15. [Behaviour Aesthetics of Reinforcement Learning in a Robotic Art Installation](https://drive.google.com/file/d/1nRZDzVHrjcB-aayVowIseu2GnhLnDTQX/view?usp=sharing)
+15. [Behaviour Aesthetics of Reinforcement Learning in a Robotic Art Installation](https://drive.google.com/file/d/13M75vuiLSVxnClYNWLeKNN9Ksv2P7R_7/view?usp=sharing)
     * *Sofian Audry, Rosalie Dumont Gagné, Hugo Scurto*
-16. [LiveGAN](https://drive.google.com/file/d/1OJLd0G2SxJeGa54gY5xpQ1ZZXoE51d5y/view?usp=sharing)
+16. [LiveGAN](https://drive.google.com/file/d/19RtJ9OUzP7Hs7L0CA3gXcD6z_rjsd0Q0/view?usp=sharing)
     * *Cameron Smith*
-17. [Mask-Guided Discovery of Semantic Manifolds in Generative Models](https://drive.google.com/file/d/1KS0xITFSGvJ9qBjPe9QK7cQwfPvxRgc6/view?usp=sharing)
+17. [Mask-Guided Discovery of Semantic Manifolds in Generative Models](https://drive.google.com/file/d/1lwC8N00PDU06zV-_TFFZ9nF_p2sdqjP_/view?usp=sharing)
     * *Mengyu Yang, David Rokeby, Xavier Snelgrove*
-18. [A Speech-Based Music Composition Tool with Transformer](https://drive.google.com/file/d/1ycY-WnhKXLGV52om6qSKtaDSqXmp4nno/view?usp=sharing)
+18. [A Speech-Based Music Composition Tool with Transformer](https://drive.google.com/file/d/1IO67Be0D3uwkQKg8zf7Bw6cAeP8SIj-K/view?usp=sharing)
     * *Jason d'Eon, Sri Harsha Dumpala, Daniel Oore, Sageev Oore*    
-19. [Transformer-GAN: Symbolic music generation using a learned loss](https://drive.google.com/file/d/1FjOSiPtDIWxm91X_VJnH2VrQLddmJg5h/view?usp=sharing)
+19. [Transformer-GAN: Symbolic music generation using a learned loss](https://drive.google.com/file/d/1UJIEcNNMkx9zLzGefoOsfogFpfY4vWAS/view?usp=sharing)
     * *Aashiq Muhamed, Liang Li, Xingjian Shi, Suri Yaddanapudi, Wayne Chi, Dylan Jackson, Rahul Suresh, Zachary Lipton, Alexander J. Smola*
-20. [Latent Compass](https://drive.google.com/file/d/1YQQLiL3FjN_FFbSLPYHEtE4-OPT7zbyw/view?usp=sharing)
+20. [Latent Compass](https://drive.google.com/file/d/1EplfolN26hd8M2W1wPnSIe8Kbecww2dq/view?usp=sharing)
     * *Sarah Schwettmann, Hendrik Strobelt, Mauro Martino*
-21. [Choreo-Graph: Learning Latent Graph Representations of the Dancing Body](https://drive.google.com/file/d/1gwAHl4XNAWDNKrJQWyvBgRGI2gTGQVx6/view?usp=sharing)
+21. [Choreo-Graph: Learning Latent Graph Representations of the Dancing Body](https://drive.google.com/file/d/1d_ulQY1RtJ5T7roGa3JqLbVqyauWxn_r/view?usp=sharing)
     * *Mariel Pettee, Santiago Miret, Somdeb Majumdar, Marcel Nassar*
-22. [Painting from Music using Neural Visual StyleTransfer](https://drive.google.com/file/d/1-dB7zEoQVgPejnGX_tDhf9EGz8gzrigT/view?usp=sharing)
+22. [Painting from Music using Neural Visual StyleTransfer](https://drive.google.com/file/d/1mqzDZtfOS0uZ2S5EbKnVEX3Hg5SZqW80/view?usp=sharing)
     * *Ingrid Odlen, Prateek Verma, Constantin Basica, Pamela Davis Kivelson*
-23. [Horses With Blue Jeans - Creating New Worlds by Rewriting a GAN](https://drive.google.com/file/d/1ryjYLz__fIdxgJ9IRtkajkMMO-DH3Lsd/view?usp=sharing)
+23. [Horses With Blue Jeans - Creating New Worlds by Rewriting a GAN](https://drive.google.com/file/d/106Qn3Z3Pod5eK13YXXICtsx_C_BOtU3H/view?usp=sharing)
     * *David Bau, Steven Liu, Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba*
-24. [Spatial Assembly:Generative Architecture With Reinforcement Learning, Self Play and Tree Search](https://drive.google.com/file/d/1AKyw-B8FbnD0EXAcHXQRmutmrhaCv4Mp/view?usp=sharing)
+24. [Spatial Assembly:Generative Architecture With Reinforcement Learning, Self Play and Tree Search](https://drive.google.com/file/d/1MMahskKy9ksirosLOSeuFYBLjP0ZfAtx/view?usp=sharing)
     * *Panagiotis Tigas, Tyson Hosmer*
-25. [Text to Dialog: Using Semantic Similarity to Extend Narrative Immersion in Virtual Worlds](https://drive.google.com/file/d/1nNM3WE3qGRW7MMmaJJxMVUkt70SIEsat/view?usp=sharing)
+25. [Text to Dialog: Using Semantic Similarity to Extend Narrative Immersion in Virtual Worlds](https://drive.google.com/file/d/10YsL1VopS3xxNvqDQBBavDeHog7SbFrY/view?usp=sharing)
     * *Sherol Chen, Ben Pietrzak, Kory W. Matthewson, Dan Cary, Anna Kipnis, Erin Hoffman-John*
-26. [Towards realistic MIDI instrument synthesizers](https://drive.google.com/file/d/1NOhO_f0AWXJsOuhGffcNk1R1LJam9zE1/view?usp=sharing)
+26. [Towards realistic MIDI instrument synthesizers](https://drive.google.com/file/d/18bO7OrvpZlS4Pe9obuJSzr5YRVBdeDri/view?usp=sharing)
     * *Rodrigo Castellon, Chris Donahue, Percy Liang*
-27. [Musical Diary - AI Application for Music Making and Journaling](https://drive.google.com/file/d/14Uf4ktjN7zm1Y6ZC2Sxiw2fEsZy7vUqw/view?usp=sharing)
+27. [Musical Diary - AI Application for Music Making and Journaling](https://drive.google.com/file/d/1SwT2R9u5BuDUproqmzy5lV_KFOsJ_QsU/view?usp=sharing)
     * *Suyash Joshi, Devin Lane, Stephen Haney*    
-28. [Diptychs of human and machine perceptions](https://drive.google.com/file/d/1E2Y1XvWwE48yhypF_A9pk4ZgQNwIosDS/view?usp=sharing)
+28. [Diptychs of human and machine perceptions](https://drive.google.com/file/d/1zi6vByMTlIynBUJhlR5BHA5cPRw-Dglg/view?usp=sharing)
     * *Vivien Cabannes, Thomas Kerdreux, Louis Thiry*
-29. [A Framework and Dataset for Abstract Art Generation via CalligraphyGAN](https://drive.google.com/file/d/11JlCMP88toHKGR4QwD8pU3lFO5-Fufki/view?usp=sharing)
+29. [A Framework and Dataset for Abstract Art Generation via CalligraphyGAN](https://drive.google.com/file/d/1tsfHvHTSYJkeGyEjIll3_ABY2SXaU3EV/view?usp=sharing)
     * *Jinggang Zhuo, Ling Fan, Harry Jiannan Wang*
-30. [Generating Novel Glyph without Human Data by Learning to Communicate](https://drive.google.com/file/d/1xGJl71s4CQ0rFaWMaqS-IpuMbbmoWoLr/view?usp=sharing)
+30. [Generating Novel Glyph without Human Data by Learning to Communicate](https://drive.google.com/file/d/1Ixo8xYWDyV4aW7vTAgi-UgxW1spsrrcH/view?usp=sharing)
     * *Seung-won Park*
-31. [Weird AI Yankovic: Generating Parody Lyrics](https://drive.google.com/file/d/1ZCgjO2kV3j_XCheQ0FIVnajFvCgSwwWI/view?usp=sharing)
+31. [Weird AI Yankovic: Generating Parody Lyrics](https://drive.google.com/file/d/1cujlWzqbZlSOAjvD0YKJqftqgMHyC43O/view?usp=sharing)
     * *Mark O. Riedl*
-32. [Copyspace: Where to Write on Images](https://drive.google.com/file/d/1Fs8RhQHuwx1esPEsmT_MFzCCTLQRJjBC/view?usp=sharing)
+32. [Copyspace: Where to Write on Images](https://drive.google.com/file/d/1UeUiFFYJjNnSZuSnThs6Btgv8vri1I7C/view?usp=sharing)
     * *Jessica M. Lundin, Michael Sollami, Brian Lonsdorf, Alan Ross, Owen Schoppe, David Woodward, Sönke Rohde*
 
 
