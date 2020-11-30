@@ -96,7 +96,7 @@ All times are EST (UTC -5).
     * *Justin N. M. Pinkney, Doron Adler*
 14. [Image Generation With Neural Cellular Automatas](https://drive.google.com/file/d/13M75vuiLSVxnClYNWLeKNN9Ksv2P7R_7/view?usp=sharing)
     * *Mingxiang Chen, Zhecheng Wang*
-15. [Behaviour Aesthetics of Reinforcement Learning in a Robotic Art Installation](https://drive.google.com/file/d/13M75vuiLSVxnClYNWLeKNN9Ksv2P7R_7/view?usp=sharing)
+15. [Behaviour Aesthetics of Reinforcement Learning in a Robotic Art Installation](https://drive.google.com/file/d/1JTTKNmMrOZ-06z7DRdhBiJ29WP3dFnd6/view?usp=sharing)
     * *Sofian Audry, Rosalie Dumont Gagné, Hugo Scurto*
 16. [LiveGAN](https://drive.google.com/file/d/19RtJ9OUzP7Hs7L0CA3gXcD6z_rjsd0Q0/view?usp=sharing)
     * *Cameron Smith*
