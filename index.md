@@ -41,18 +41,18 @@ All times are EST (UTC -5).
 | Time    | Event  |
 |---------|--------|
 | 8:15 AM | Introduction and Art Gallery Overiew *Luba Elliott* |
-| 8:30 AM | Poster Session 1 <br/> *Posters 1-27 and 30-32* |
-| 9:30 AM | Invited Talk<br/>*Janelle Shane* (AI Weirdness) |
-| 9:55 AM | Invited Talk<br/>*Scott Eaton* |
-| 10:20 AM | Invited Talk<br/>*Sofia Crespo* |
+| 8:30 AM | Poster Session 1 <br/> *Posters 1-28 and 30-32* |
+| 9:30 AM | Farewell to Fart: Working with generated text in the age of huge neural nets <br/>*Janelle Shane* (AI Weirdness) |
+| 9:56 AM | Artist+AI: Figures&Form <br/>*Scott Eaton* |
+| 10:21 AM | Artificial biodiversity <br/>*Sofia Crespo* |
 | 10:40 AM | Art Show |
 | 11:00 AM | Panel Discussion 1<br/>*Janelle Shane, Sofia Crespo, Scott Eaton, Adam Roberts, Luba Elliott * |
 | 11:30 AM | Social 1 |
-| 12:15 PM | Invited Talk<br/>*Jesse Engel* |
+| 12:15 PM | magenta: Empowering Creative Agency with Machine Learning <br/>*Jesse Engel* |
 | 12:45 PM | Art Show |
-| 1:20 PM | Invited Talk<br/>*Aaron Hertzmann* (Adobe Research) |
-| 1:45 PM | Invited Talk<br/>*Angela Fan* (Facebook) |
-| 2:10 PM | Invited Talk<br/>*Stephanie Dinkins* (Stony Brook University) |
+| 1:20 PM | Computation and the Human Visual Perception of Art <br/>*Aaron Hertzmann* (Adobe Research) |
+| 1:45 PM | LIGHT: Language in Games with Humans and Text <br/>*Angela Fan* (Facebook) |
+| 2:10 PM | Not the Only One <br/>*Stephanie Dinkins* (Stony Brook University) |
 | 2:35 PM | Art Show |
 | 2:50 PM | Audio-reactive Latent Interpolations with StyleGAN<br/>*Hans Brouwer* |
 | 3:00 PM | Towards realistic MIDI instrument synthesizers<br/>*Rodrigo Castellon* |
