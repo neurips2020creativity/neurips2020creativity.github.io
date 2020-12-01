@@ -40,7 +40,7 @@ All times are EST (UTC -5).
 
 | Time    | Event  |
 |---------|--------|
-| 8:15 AM | Introduction and Art Gallery Overiew |
+| 8:15 AM | Introduction and Art Gallery Overiew *Luba Elliott* |
 | 8:30 AM | Poster Session 1 <br/> *Posters 1-27 and 30-32* |
 | 9:30 AM | Invited Talk<br/>*Janelle Shane* (AI Weirdness) |
 | 9:55 AM | Invited Talk<br/>*Scott Eaton* |
@@ -122,10 +122,10 @@ All times are EST (UTC -5).
     * *Rodrigo Castellon, Chris Donahue, Percy Liang*
 27. [Musical Diary - AI Application for Music Making and Journaling](https://drive.google.com/file/d/1SwT2R9u5BuDUproqmzy5lV_KFOsJ_QsU/view?usp=sharing)
     * *Suyash Joshi, Devin Lane, Stephen Haney*
-28. [Weird AI Yankovic: Generating Parody Lyrics](https://drive.google.com/file/d/1cujlWzqbZlSOAjvD0YKJqftqgMHyC43O/view?usp=sharing)
-    * *Mark O. Riedl*
-29. [Copyspace: Where to Write on Images](https://drive.google.com/file/d/1UeUiFFYJjNnSZuSnThs6Btgv8vri1I7C/view?usp=sharing)
+28. [Copyspace: Where to Write on Images](https://drive.google.com/file/d/1UeUiFFYJjNnSZuSnThs6Btgv8vri1I7C/view?usp=sharing)
     * *Jessica M. Lundin, Michael Sollami, Brian Lonsdorf, Alan Ross, Owen Schoppe, David Woodward, Sönke Rohde*
+29. [Weird AI Yankovic: Generating Parody Lyrics](https://drive.google.com/file/d/1cujlWzqbZlSOAjvD0YKJqftqgMHyC43O/view?usp=sharing)
+    * *Mark O. Riedl*
 30. [Generating Novel Glyph without Human Data by Learning to Communicate](https://drive.google.com/file/d/1Ixo8xYWDyV4aW7vTAgi-UgxW1spsrrcH/view?usp=sharing)
     * *Seung-won Park*
 31. [Diptychs of human and machine perceptions](https://drive.google.com/file/d/1zi6vByMTlIynBUJhlR5BHA5cPRw-Dglg/view?usp=sharing)
