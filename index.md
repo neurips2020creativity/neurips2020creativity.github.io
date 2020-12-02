@@ -133,7 +133,7 @@ The art submissions from previous years can be viewed [here](http://www.aiartonl
 
 ## How to attend
 
-You should purchase a ticket on neurips.cc (https://neurips.cc/) by 7th December 6pm PST. This ticket will give you access to the whole NeurIPS conference, including other workshops.
+You should purchase a ticket on [neurips.cc](https://neurips.cc/) by 7th December 6pm PST. This ticket will give you access to the whole NeurIPS conference, including other workshops.
 
 ## Organisers
 
