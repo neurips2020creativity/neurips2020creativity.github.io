@@ -20,20 +20,6 @@ The goal of this workshop is to bring together researchers interested in advanci
 
 [Janelle Shane](https://aiweirdness.com/aboutme), AI Weirdness
 
-## Contact
-
-If you have any questions, please contact us at `neurips2020creativity@gmail.com`
-
-Workshop website: [https://neurips2020creativity.github.io](https://neurips2020creativity.github.io)
-
-Previous years:
-
-* [2019 workshop](http://neurips2019creativity.github.io/) (Vancouver, Canada)
-* [2018 workshop](https://nips2018creativity.github.io/) (Montreal, Canada)
-* [2017 workshop](https://nips2017creativity.github.io/) (Long Beach, CA, USA)
-
-The art submissions from previous years can be viewed [here](http://www.aiartonline.com/)
-
 ## Schedule
 
 All times are EST (UTC -5).
@@ -63,8 +49,6 @@ All times are EST (UTC -5).
 | 4:45 PM | Panel Discussion 2<br/>*Jesse Engel, Angela Fan, Aaron Hertzmann, Stephanie Dinkins, Holly Grimm, Tom White* |
 | 5:15 PM | Social 2 |
 | 6:00 PM | End |
-
-<!-- TODO: invited talk titles? -->
 
 ## Accepted papers
 
@@ -133,16 +117,23 @@ All times are EST (UTC -5).
 32. [A Framework and Dataset for Abstract Art Generation via CalligraphyGAN](https://drive.google.com/file/d/1tsfHvHTSYJkeGyEjIll3_ABY2SXaU3EV/view?usp=sharing)
     * *Jinggang Zhuo, Ling Fan, Harry Jiannan Wang*
 
+## Contact
 
+If you have any questions, please contact us at `neurips2020creativity@gmail.com`
 
+Workshop website: [https://neurips2020creativity.github.io](https://neurips2020creativity.github.io)
 
+Previous years:
 
+* [2019 workshop](http://neurips2019creativity.github.io/) (Vancouver, Canada)
+* [2018 workshop](https://nips2018creativity.github.io/) (Montreal, Canada)
+* [2017 workshop](https://nips2017creativity.github.io/) (Long Beach, CA, USA)
 
+The art submissions from previous years can be viewed [here](http://www.aiartonline.com/)
 
+# How to attend
 
-
-
-
+You should purchase a ticket on neurips.cc by 7th December 6pm PST. This ticket will give you access to the whole NeurIPS conference, including other workshops.
 
 ## Organisers
 
