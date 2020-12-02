@@ -31,20 +31,20 @@ All times are EST (UTC -5).
 | 9:30 AM | Farewell to Fart: Working with generated text in the age of huge neural nets <br/>*Janelle Shane* (AI Weirdness) |
 | 9:56 AM | Artist+AI: Figures&Form <br/>*Scott Eaton* |
 | 10:21 AM | Artificial biodiversity <br/>*Sofia Crespo* |
-| 10:40 AM | Art Show |
+| 10:40 AM | Art Showcase 1 |
 | 11:00 AM | Panel Discussion 1<br/>*Janelle Shane, Sofia Crespo, Scott Eaton, Adam Roberts, Luba Elliott * |
 | 11:30 AM | Social 1 |
 | 12:15 PM | magenta: Empowering Creative Agency with Machine Learning <br/>*Jesse Engel* |
-| 12:45 PM | Art Show |
+| 12:45 PM | Art Showcase 2 |
 | 1:20 PM | Computation and the Human Visual Perception of Art <br/>*Aaron Hertzmann* (Adobe Research) |
 | 1:47 PM | LIGHT: Language in Games with Humans and Text <br/>*Angela Fan* (Facebook) |
 | 2:09 PM | Not the Only One <br/>*Stephanie Dinkins* (Stony Brook University) |
-| 2:35 PM | Art Show |
+| 2:35 PM | Art Showcase 1|
 | 2:50 PM | Audio-reactive Latent Interpolations with StyleGAN<br/>*Hans Brouwer* |
 | 3:00 PM | Towards realistic MIDI instrument synthesizers<br/>*Rodrigo Castellon* |
 | 3:10 PM | Creative Sketch Generation<br/>*Songwei Ge* |
 | 3:20 PM | Agence: an interactive film exploring multi-agent systems and human agency<br/>*Dante Camarena* |
-| 3:30 PM | Art Show |
+| 3:30 PM | Art Showcase 2|
 | 3:45 PM | Poster Session 2 <br/> *Posters 1-29*|
 | 4:45 PM | Panel Discussion 2<br/>*Jesse Engel, Angela Fan, Aaron Hertzmann, Stephanie Dinkins, Holly Grimm, Tom White* |
 | 5:15 PM | Social 2 |
