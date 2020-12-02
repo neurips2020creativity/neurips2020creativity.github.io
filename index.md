@@ -37,8 +37,8 @@ All times are EST (UTC -5).
 | 12:15 PM | magenta: Empowering Creative Agency with Machine Learning <br/>*Jesse Engel* |
 | 12:45 PM | Art Show |
 | 1:20 PM | Computation and the Human Visual Perception of Art <br/>*Aaron Hertzmann* (Adobe Research) |
-| 1:45 PM | LIGHT: Language in Games with Humans and Text <br/>*Angela Fan* (Facebook) |
-| 2:10 PM | Not the Only One <br/>*Stephanie Dinkins* (Stony Brook University) |
+| 1:47 PM | LIGHT: Language in Games with Humans and Text <br/>*Angela Fan* (Facebook) |
+| 2:09 PM | Not the Only One <br/>*Stephanie Dinkins* (Stony Brook University) |
 | 2:35 PM | Art Show |
 | 2:50 PM | Audio-reactive Latent Interpolations with StyleGAN<br/>*Hans Brouwer* |
 | 3:00 PM | Towards realistic MIDI instrument synthesizers<br/>*Rodrigo Castellon* |
