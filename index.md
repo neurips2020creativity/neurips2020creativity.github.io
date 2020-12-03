@@ -32,7 +32,7 @@ All times are EST (UTC -5).
 | 9:56 AM | Artist+AI: Figures&Form <br/>*Scott Eaton* |
 | 10:21 AM | Artificial biodiversity <br/>*Sofia Crespo* |
 | 10:40 AM | Art Showcase 1 |
-| 11:00 AM | Panel Discussion 1<br/>*Janelle Shane, Sofia Crespo, Scott Eaton, Adam Roberts, Luba Elliott * |
+| 11:00 AM | Panel Discussion 1<br/>*Janelle Shane, Sofia Crespo, Scott Eaton, Angela Fan, chaired by Adam Roberts and Luba Elliott * |
 | 11:30 AM | Social 1 |
 | 12:15 PM | magenta: Empowering Creative Agency with Machine Learning <br/>*Jesse Engel* |
 | 12:45 PM | Art Showcase 2 |
@@ -46,7 +46,7 @@ All times are EST (UTC -5).
 | 3:20 PM | Agence: an interactive film exploring multi-agent systems and human agency<br/>*Dante Camarena* |
 | 3:30 PM | Art Showcase 2|
 | 3:45 PM | Poster Session 2 <br/> *Posters 1-29*|
-| 4:45 PM | Panel Discussion 2<br/>*Jesse Engel, Angela Fan, Aaron Hertzmann, Stephanie Dinkins, Holly Grimm, Tom White* |
+| 4:45 PM | Panel Discussion 2<br/>*Jesse Engel, Aaron Hertzmann, Stephanie Dinkins chaired by Holly Grimm and Tom White* |
 | 5:15 PM | Social 2 |
 | 6:00 PM | End |
 
