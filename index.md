@@ -32,7 +32,7 @@ All times are EST (UTC -5).
 | 9:56 AM | Artist+AI: Figures&Form <br/>*Scott Eaton* |
 | 10:21 AM | Artificial biodiversity <br/>*Sofia Crespo* |
 | 10:40 AM | Art Showcase 1 |
-| 11:00 AM | Panel Discussion 1<br/>*Janelle Shane, Sofia Crespo, Scott Eaton, Angela Fan, chaired by Adam Roberts and Luba Elliott * |
+| 11:00 AM | Panel Discussion 1<br/>*Janelle Shane, Sofia Crespo, Scott Eaton, Angela Fan, chaired by Adam Roberts and Luba Elliott* |
 | 11:30 AM | Social 1 |
 | 12:15 PM | magenta: Empowering Creative Agency with Machine Learning <br/>*Jesse Engel* |
 | 12:45 PM | Art Showcase 2 |
