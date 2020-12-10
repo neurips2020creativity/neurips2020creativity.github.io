@@ -27,7 +27,7 @@ All times are EST (UTC -5).
 | Time    | Event  |
 |---------|--------|
 | 8:15 AM | Introduction and Art Gallery Overiew *Luba Elliott* |
-| 8:30 AM | Poster Session 1 <br/> *Posters 1-28 and 30-32* |
+| 8:30 AM | Poster Session 1 <br/> *Posters 1-32 apart from 6 and 29* |
 | 9:30 AM | Farewell to Fart: Working with generated text in the age of huge neural nets <br/>*Janelle Shane* (AI Weirdness) |
 | 9:56 AM | Artist+AI: Figures&Form <br/>*Scott Eaton* |
 | 10:21 AM | Artificial biodiversity <br/>*Sofia Crespo* |
