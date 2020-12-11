@@ -24,6 +24,8 @@ The goal of this workshop is to bring together researchers interested in advanci
 
 All times are EST (UTC -5).
 
+You will find links to all the sessions on our [NeurIPS workshop website](https://neurips.cc/virtual/2020/protected/workshop_16131.html) (registered participants only).
+
 | Time    | Event  |
 |---------|--------|
 | 8:15 AM | Introduction and Art Gallery Overiew *Luba Elliott* |
@@ -133,7 +135,7 @@ The art submissions from previous years can be viewed [here](http://www.aiartonl
 
 ## How to attend
 
-You should purchase a ticket on [neurips.cc](https://neurips.cc/) by 7th December 6pm PST. This ticket will give you access to the whole NeurIPS conference, including other workshops.
+You should purchase a ticket on [neurips.cc](https://neurips.cc/). This will allow you to access [our website] (https://neurips.cc/virtual/2020/protected/workshop_16131.html) on NeurIPS with links to the livestream, poster session and socials.
 
 ## Organisers
 
