@@ -135,7 +135,7 @@ The art submissions from previous years can be viewed [here](http://www.aiartonl
 
 ## How to attend
 
-You should purchase a ticket on [neurips.cc](https://neurips.cc/). This will allow you to access [our website] (https://neurips.cc/virtual/2020/protected/workshop_16131.html) on NeurIPS with links to the livestream, poster session and socials.
+You should purchase a ticket on [neurips.cc](https://neurips.cc/). This will allow you to access [our website](https://neurips.cc/virtual/2020/protected/workshop_16131.html) on NeurIPS with links to the livestream, poster session and socials.
 
 ## Organisers
 
